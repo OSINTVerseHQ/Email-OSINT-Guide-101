@@ -12,6 +12,15 @@ Tools die. If a row is stale, [open an issue](https://github.com/osintverse/Emai
 - Prefer local tools when the address is sensitive
 - Record the exact query, timestamp, and output
 
+Holehe, GHunt, and theHarvester install on Linux with [OTinstaller](https://github.com/OSINTVerseHQ/OTinstaller):
+
+```bash
+pipx install otinstaller
+ot install holehe
+ot install ghunt
+ot install theharvester
+```
+
 ---
 
 ## Quick picker

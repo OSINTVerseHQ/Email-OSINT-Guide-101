@@ -8,6 +8,8 @@ This is a field manual, not a tool dump. Most “email OSINT” pages list 40 li
 
 **Maintained by [OSINTverse](https://osintverse.com)** · License: [CC BY 4.0](LICENSE)
 
+Holehe, GHunt, and theHarvester install on Linux with [OTinstaller](https://github.com/OSINTVerseHQ/OTinstaller) (`pipx install otinstaller`).
+
 ---
 
 ## What this email OSINT guide covers
